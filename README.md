@@ -16,4 +16,4 @@
 
 
 ## Defensive Hearth
-- Beginning at the 14th level, your Warm Glow effect's range increases to 20 feet. Additionally, while affected by your Warm Glow, allies gain 1d6 fire damage on all attacks.
+- Beginning at the 14th level, your Warm Glow effect's range increases to 20 feet. Additionally, while affected by your Warm Glow, allies gain 1d6 fire damage on all melee attacks.
