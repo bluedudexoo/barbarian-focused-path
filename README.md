@@ -7,7 +7,7 @@
 - When you enter a rage, if an enemy is within 5 feet of you, they must make a constitution saving throw. Upon a fail, they are stunned until the beginning of their next turn; on a save, they are knocked back 5 feet from you and are prone.
 
 
-## Firey Grip
+## Fiery Grip
 - Beginning at the 6th level, you gain the ability to cast Burning Hands at the 1st level [proficency bonus] times per short rest. This increases to the 2nd level at level 10, and the 3rd level at level 14.
 
 
