@@ -4,8 +4,8 @@
 
 ## Explosive Intent
 - At the 3rd level after entering a rage, your first attack every turn during
-  your rage will have additional fire damage equal to [proficency score] d4. If
-  this first attack hits, your first attack next turn will deal an additional
+  your rage will have additional fire damage equal to [proficency score] d4s. 
+  If this first attack hits, your first attack next turn will deal an additional
   d4 of fire damage. This effect stacks up to a number of times equal to your
   strength modifier.
 - When you enter a rage, if an enemy is within 5 feet of you, they must make a
@@ -29,7 +29,8 @@
 
 
 ## Defensive Hearth
-- At the 14th level, while an ally is affected by your Warm Glow, they gain 
-  advantage on constitution saving throws and ability checks, and temporary hit 
-  points equal to your constitution modifier. 
-- Temporary hit points gained in this way can ony be applied once per combat.
+- At the 14th level, while an ally is affected by your Warm Glow, you both have
+  advantage on constitution saving throws and ability checks, and can use a
+  reaction to enjoy the warmth and gain temporary hit points equal to your
+  constitution modifier. This feature's temporary hit point gain can only take
+  effect once per combat.
