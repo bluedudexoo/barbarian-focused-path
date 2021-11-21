@@ -3,7 +3,7 @@
 
 
 ## Explosive Intent
-- At the 3rd level after entering a rage, your first attack every turn during your rage will have additional fire damage equal to [proficency score] d6. If this attack hits, you may add a d6 of fire damage to your first attack next turn. This effect stacks up to [strength mod] times.
+- At the 3rd level after entering a rage, your first attack every turn during your rage will have additional fire damage equal to [proficency score] d6. If this first attack hits, your first attack next turn will deal an additional d6 of fire damage. This effect stacks up to [strength mod] times.
 - When you enter a rage, if an enemy is within 5 feet of you, they must make a constitution saving throw. Upon a fail, they are stunned until the beginning of their next turn; on a save, they are knocked back 5 feet from you and are prone.
 
 
