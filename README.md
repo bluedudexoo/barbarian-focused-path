@@ -8,8 +8,8 @@
   this first attack hits, your first attack next turn will deal an additional
   d4 of fire damage. This effect stacks up to [strength mod] times.
 - When you enter a rage, if an enemy is within 5 feet of you, they must make a
-  constitution saving throw. Upon a fail, they are stunned until the beginning
-  of their next turn; on a save, they are knocked back 5 feet from you and are
+  constitution saving throw. On a fail, they are stunned for the next 12
+  seconds; on a save, they are knocked back 5 feet from you and are
   prone.
 
 
