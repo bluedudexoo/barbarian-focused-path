@@ -1,4 +1,6 @@
-# Path of the Focused Flame ### These Barbarians took cues from the Monks- channeling their bloodlust into a deadly, purposeful intent that ignites on entering a rage.
+# Path of the Focused Flame 
+### These Barbarians took cues from the Monks- channeling their bloodlust into a deadly, purposeful intent that ignites on entering a rage.
+
 
 ## Explosive Intent
 - At the 3rd level after entering a rage, your first attack every turn during
