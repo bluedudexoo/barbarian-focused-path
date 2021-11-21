@@ -8,7 +8,7 @@
 
 
 ## Firey Grip
-- Beginning at the 6th level, you gain the ability to cast Burning Hands at the 2nd level [proficency bonus] times per short rest. This increases to the 3rd level at level 10, and the 4th level at level 14.
+- Beginning at the 6th level, you gain the ability to cast Burning Hands at the 1st level [proficency bonus] times per short rest. This increases to the 2nd level at level 10, and the 3rd level at level 14.
 
 
 ## Warm Glow
