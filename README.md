@@ -15,21 +15,21 @@
 
 ## Fiery Grip
 - Beginning at the 6th level, you gain the ability to cast Burning Hands at the
-  1st level. Strength is your spellcasting ability for this spell. This 
-  increases to the 2nd level at level 10, and the 3rd level at level 14. 
-- After you cast this spell in this way, you can't use this feature
-  again until you have completed a long or short rest.
+  1st level. This increases to the 2nd level at level 10, and the 3rd level at
+  level 14. Strength is your spellcasting ability for this spell. 
+- After you cast this spell in this way, you can't use this feature again until
+  you have completed a long or short rest.
 
 
 ## Warm Glow
 - Beginning at 10th level, while you are raging, any ally within 10 feet of you
   gains resistance to piercing, slashing, and bludgeoning damage. This effect
   lasts for as long as the ally is within 10 feet of you, or if your rage ends.
-- At the 14th and 20th level, this feature's area of effect increases by 5 feet.
+  At the 14th and 20th level, this feature's area of effect increases by 5 feet.
 
 
 ## Defensive Hearth
 - At the 14th level, while an ally is affected by your Warm Glow, you both have
   advantage on constitution saving throws and ability checks, and gain temporary
-  hit points equal to your constitution modifier. This feature's temporary hit
-  point gain can only take effect once per combat.
+  hit points equal to your constitution modifier. You and your allies may only
+  gain temporary hit points in this way once per combat.
