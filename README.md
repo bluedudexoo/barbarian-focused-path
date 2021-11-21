@@ -4,10 +4,10 @@
 
 ## Explosive Intent
 - At the 3rd level after entering a rage, your first attack every turn during
-  your rage will have additional fire damage equal to [proficency score] d4s. 
+  your rage will deal extra fire damage equal to your proficiency bonus. 
   If this first attack hits, your first attack next turn will deal an additional
   d4 of fire damage. This effect stacks up to a number of times equal to your
-  strength modifier.
+  strength modifier, and is not reset on missed attacks.
 - When you enter a rage, if an enemy is within 5 feet of you, they must make a
   constitution saving throw. On a fail, they are stunned for the next 12
   seconds; on a save, they are knocked back 5 feet from you and are prone.
