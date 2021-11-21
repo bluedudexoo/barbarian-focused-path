@@ -30,7 +30,6 @@
 
 ## Defensive Hearth
 - At the 14th level, while an ally is affected by your Warm Glow, you both have
-  advantage on constitution saving throws and ability checks, and can use a
-  reaction to enjoy the warmth and gain temporary hit points equal to your
-  constitution modifier. This feature's temporary hit point gain can only take
-  effect once per combat.
+  advantage on constitution saving throws and ability checks, and gain temporary
+  hit points equal to your constitution modifier. This feature's temporary hit
+  point gain can only take effect once per combat.
