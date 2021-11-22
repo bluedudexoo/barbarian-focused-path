@@ -28,9 +28,7 @@
 
 
 ## Defensive Hearth
-- Beginning at 14th level, while you are raging, any ally within 25 feet of you
+- Beginning at 14th level, when you enter a rage, any ally within 30 feet of you 
   that you can see gains advantage on constitution ability checks and saving
-  throws. 
-- This effect lasts for 1 minute. At the 20th level, this feature's area of
-  effect increases by 5 feet.
+  throws for 1 minute.
 
