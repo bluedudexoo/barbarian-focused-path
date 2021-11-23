@@ -30,6 +30,6 @@
 ## Defensive Hearth
 - Beginning at 14th level, when you enter a rage, any ally within 30 feet of you 
   that you can see gains advantage on constitution ability checks and saving
-  throws for 1 minute, and gains tempoprary hit points equal to your
+  throws for 1 minute, and gains temporary hit points equal to your
   constitution modifier.
 
