@@ -26,7 +26,8 @@
 ## Controlled Demolition
 - At the 10th level, when you hit an enemy and deal extra fire damage from
   Explosive Intent, each enemy within 10 feet of your target not including your
-  target takes a d4 + your rage bonus damage of fire damage.
+  target takes a d4 of fire damage. On a crit, you may add your rage bonus
+  damage to this roll.
 
 
 ## Defensive Hearth
