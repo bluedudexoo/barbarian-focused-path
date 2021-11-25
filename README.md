@@ -7,7 +7,8 @@
   extra d4 of fire damage. For each successive attack that hits and is modified
   in this way, your first attack that hits on the next turn gains an additional
   d4 of fire damage. This effect stacks up to a number of times equal to your
-  strength modifier, and is only lost when your rage ends.
+  rage bonus damage, plus 1 at the 20th level, and is only lost when your rage
+  ends.
 - When you enter a rage, if an enemy is within 5 feet of you, they must make a
   constitution saving throw. On a fail, they are knocked back 5 feet and are
   prone.
@@ -24,8 +25,8 @@
 
 ## Controlled Demolition
 - At the 10th level, when you hit an enemy and deal extra fire damage from
-  Explosive Intent, each enemy within 10 feet of your target takes a d6 of
-  fire damage.
+  Explosive Intent, each enemy within 10 feet of your target not including your
+  target, takes a d4 + your rage bonus damage of fire damage.
 
 
 ## Defensive Hearth
